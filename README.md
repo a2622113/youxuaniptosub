@@ -1,3 +1,6 @@
+#重要
+- 运行脚本前一定要先关闭所有代理软件！！！！
+
 # 1. 原理
 - 运行auto.bat脚本，脚本运用了 `cftest.exe` 测速工具跑 cloudflare官方优选IP(ip.txt) 的延迟测试和网速
 - 之后会生成 `result.txt` 和 `result.csv` ，csv是测速结果文件，txt是优选ip订阅节点文件
