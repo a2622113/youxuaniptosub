@@ -15,3 +15,9 @@
 - 另外也可以将本地生成的result.txt文件导入机场软件也可以
 
 备注：测速模块用的是XIU2/CloudflareSpeedTest
+
+附：
+
+karing：[下载](https://github.com/KaringX/karing/releases)
+
+v2rayn：[下载](https://github.com/2dust/v2rayN/releases)
